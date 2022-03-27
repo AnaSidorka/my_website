@@ -1,9 +1,9 @@
-#My first website
-Used tools:
+# My first website
+*Used tools:*
 - HTML
 - CSS
--Javascript
+- Javascript
 
-Structure:
+*Structure:*
 Home page, contact page
 
